@@ -1,7 +1,5 @@
 # API REST Supermercado MarketSoft
 
-Backend para la gestión básica de un supermercado: proveedores, productos, usuarios y ventas. Está construido con **Node.js**, **Express**, **PostgreSQL** y **Sequelize**, siguiendo la arquitectura **MVC**. La API será consumida por el frontend en la siguiente actividad.
-
 ## Integrantes y responsabilidades
 
 | Integrante | Responsabilidades |
