@@ -1,0 +1,25 @@
+{
+  "name": "supermercado-marketsoft-api",
+  "version": "1.0.0",
+  "description": "API REST para la gestión de un supermercado (MarketSoft) con Node.js, Express, PostgreSQL y Sequelize bajo arquitectura MVC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["api", "rest", "express", "sequelize", "postgresql", "mvc", "supermercado"],
+  "author": "Cristian Felipe Barreto Marulanda, Juan Camilo Giraldo Aristizabal, Jefferson Stiven Morales Jimenez",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "pg": "^8.13.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.5",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
